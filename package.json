@@ -15,6 +15,7 @@
   "homepage": "https://isaiahtech.github.io/ps-js-dev-env",
   "dependencies": {
     "audit": "0.0.6",
+    "babel": "^6.23.0",
     "whatwg-fetch": "1.0.0"
   },
   "devDependencies": {
