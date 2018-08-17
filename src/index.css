@@ -1,5 +1,10 @@
 body {
   font-family: Sans-Serif;
+  background-color: #e4002b;
+}
+
+h1 {
+  color: white;
 }
 
 table th {
